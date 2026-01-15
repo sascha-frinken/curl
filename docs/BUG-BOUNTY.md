@@ -8,7 +8,7 @@ SPDX-License-Identifier: curl
 
 Up until the end of January 2026 there was a curl bug bounty. It is no more.
 
-The curl project does not anymore offer any rewards for reported bugs or
+The curl project no longer offers any rewards for reported bugs or
 vulnerabilities. We also do not aid security researchers to get such rewards
 for curl problems from other sources either.
 
